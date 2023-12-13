@@ -8,3 +8,5 @@ Realizar a criação de 4 redes diferentes no Cisco Packet Tracer e realizar a c
 
 
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/e8a51d32-d3c8-4e56-97a5-cb232d443a9c)
+
+![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/dbc20413-ca0d-4722-acaf-0626ec6f3906)
