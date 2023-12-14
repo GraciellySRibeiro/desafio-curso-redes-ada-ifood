@@ -14,8 +14,14 @@ Realizar a criação de 4 redes diferentes no Cisco Packet Tracer e realizar a c
  ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/b6b6182a-f931-49f8-944a-d1130b710d5f)
  ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/26c94356-4db6-412c-a5f6-3ba413930f69)
 
-
+## 3) A rede do departamento RH deve conter 3 computadores, 1 impressora e um servidor .
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/03aacfc2-e22b-4132-b45b-dd57e613aaa8)
+### - O servidor deve ter um IP fixo e fonerce os serviços DHCP (atribuir de forma automática os ip aos computadores da rede) e HTTP (conteúdo do site do departemento RH)
+![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/72443b55-58e5-4fc6-99f5-5a69bb83b192)
+
+### - A impressora deve ter um IP fixo.
+![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/6f2fccd2-41ae-4c14-a6c6-df0ee16a6f63)
+
 
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/8535f067-8c22-47d9-b74c-df51636c466f)
 
