@@ -1,4 +1,4 @@
-# Projeto final do módulo de redes - Bootcamp Vem Ser Tech - 
+# Projeto final do módulo de redes 
 
 # Objetivo do projeto
 Realizar a criação de 4 redes diferentes no Cisco Packet Tracer e realizar a comunicação entre elas.
