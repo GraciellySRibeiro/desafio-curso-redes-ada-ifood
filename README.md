@@ -1,4 +1,4 @@
-# Projeto final do módulo de redes - Bootcamp Vem Ser Tech da Ada em parceria com o Ifood
+# Projeto final do módulo de redes - Bootcamp Vem Ser Tech - Ada em parceria com o Ifood
 
 # Objetivo do projeto
 Realizar a criação de 4 redes diferentes no Cisco Packet Tracer e realizar a comunicação entre elas.
@@ -21,13 +21,17 @@ Realizar a criação de 4 redes diferentes no Cisco Packet Tracer e realizar a c
 
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/72443b55-58e5-4fc6-99f5-5a69bb83b192)
 
-### - A impressora deve ter um IP fixo.
+### - A impressora deve ter um IP fixo .
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/6f2fccd2-41ae-4c14-a6c6-df0ee16a6f63)
 
-## 4) A rede do departamento Tecnologia deve ter 1 notebook e um servidor .
+## 4) A rede do departamento Tecnologia deve ter 1 notebook e um servidor DNS .
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/8535f067-8c22-47d9-b74c-df51636c466f)
-![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/533fab71-c82b-4c6a-b322-082b7c3b8b1d)
-### - O notebook  deve ter IP fixo
+### - O servidor deve ter IP fixo e resolver os domínios das outras duas redes: Financeiro e RH
+![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/533fab71-c82b-4c6a-b322-082b7c3b8b1d) 
+![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/3b6690ab-e4d8-4c47-adbc-475a2f2a1094)
+
+
+### - O notebook deve ter IP fixo
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/e19a8d2f-9010-40b9-b866-cbfd55b75c01)
 
 
