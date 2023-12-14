@@ -9,7 +9,8 @@ Realizar a criação de 4 redes diferentes no Cisco Packet Tracer e realizar a c
 
 ## 2) A rede do departamento financeiro deve conter 4 computadores e um servidor .
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/e8a51d32-d3c8-4e56-97a5-cb232d443a9c)
-      ## - O servidor deve ter um IP fixo e fonerce os serviços DHCP (atribuir de forma automática os ip aos computadores da rede) e HTTP (conteúdo do site do departemento financeiro)
+
+      # - O servidor deve ter um IP fixo e fonerce os serviços DHCP (atribuir de forma automática os ip aos computadores da rede) e HTTP (conteúdo do site do departemento financeiro)
  ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/b6b6182a-f931-49f8-944a-d1130b710d5f) ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/26c94356-4db6-412c-a5f6-3ba413930f69)
 
 
