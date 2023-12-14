@@ -17,13 +17,18 @@ Realizar a criação de 4 redes diferentes no Cisco Packet Tracer e realizar a c
 ## 3) A rede do departamento RH deve conter 3 computadores, 1 impressora e um servidor .
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/03aacfc2-e22b-4132-b45b-dd57e613aaa8)
 ### - O servidor deve ter um IP fixo e fonerce os serviços DHCP (atribuir de forma automática os ip aos computadores da rede) e HTTP (conteúdo do site do departemento RH)
+![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/2e16ef87-da74-4e04-97ff-92efa0b18870)
+
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/72443b55-58e5-4fc6-99f5-5a69bb83b192)
 
 ### - A impressora deve ter um IP fixo.
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/6f2fccd2-41ae-4c14-a6c6-df0ee16a6f63)
 
-
+## 4) A rede do departamento Tecnologia deve ter 1 notebook e um servidor .
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/8535f067-8c22-47d9-b74c-df51636c466f)
+![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/533fab71-c82b-4c6a-b322-082b7c3b8b1d)
+### - O notebook  deve ter IP fixo
+![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/e19a8d2f-9010-40b9-b866-cbfd55b75c01)
 
 
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/780647ee-236c-4fe4-9524-02bce5944ffc)
