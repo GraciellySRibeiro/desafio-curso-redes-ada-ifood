@@ -42,6 +42,8 @@ Realizar a criação de 4 redes diferentes no Cisco Packet Tracer e realizar a c
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/3def56f1-2f6c-4c29-a1da-261a3f3f3a98)
 
 
+## Comunicação entre os dispositivos de rede
+### -Dispositivo da rede financeira acessando o site da rede RH
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/e9ae11c0-901c-4738-9f90-17602f659f33)
 
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/5768b5a6-194f-4e1b-abb3-376df6ffde43)
