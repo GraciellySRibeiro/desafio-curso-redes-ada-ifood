@@ -4,10 +4,10 @@
 Realizar a criação de 4 redes diferentes no Cisco Packet Tracer e realizar a comunicação entre elas.
 
 # Requisitos:
-## 1) Criar 4 sub-redes de tamanho igual a partir da rede 192.168.20.0/24 e atribuir essas sub-redes aos departamentos Financeiro, RH, Tecnologia
+## 1) Criar 4 sub-redes de tamanho igual a partir da rede 192.168.20.0/24 e atribuir essas sub-redes aos departamentos Financeiro, RH e Tecnologia. 
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/be377fbe-ff05-44a2-8323-4c961d6dc41b)
 
-
+## 2) A rede do departamento financeiro deve conter 4 computadores e um servidor 
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/e8a51d32-d3c8-4e56-97a5-cb232d443a9c)
 
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/03aacfc2-e22b-4132-b45b-dd57e613aaa8)
