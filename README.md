@@ -1,4 +1,4 @@
-# Projeto final do módulo de redes - Bootcamp Vem Ser Tech - Ada em parceria com o Ifood
+# Projeto final do módulo de redes - Bootcamp Vem Ser Tech - 
 
 # Objetivo do projeto
 Realizar a criação de 4 redes diferentes no Cisco Packet Tracer e realizar a comunicação entre elas.
@@ -34,5 +34,14 @@ Realizar a criação de 4 redes diferentes no Cisco Packet Tracer e realizar a c
 ### - O notebook deve ter IP fixo
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/e19a8d2f-9010-40b9-b866-cbfd55b75c01)
 
-
+## 5) A conexão entre as sub-redes será feita pela rede roteadores e essa rede deve ter 2 roteadores. 
 ![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/780647ee-236c-4fe4-9524-02bce5944ffc)
+
+### Deve ser configurada uma rota estática entre os dois roteadores para permitir acesso as demais redes.
+![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/e6dfcab7-a85a-406f-bc00-efcf5625992a)
+![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/3def56f1-2f6c-4c29-a1da-261a3f3f3a98)
+
+
+## Resultado final
+![image](https://github.com/GraciellySRibeiro/desafio-curso-redes-ada-ifood/assets/132016875/da42639a-3b11-4b06-90f8-90eb08c0e2f0)
+
